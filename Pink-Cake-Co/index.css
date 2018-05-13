@@ -6179,11 +6179,15 @@ html, body {
 
 .banner {
   /* Create the parallax scrolling effect */
-  height: 40%;
+  height: 50%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
+
+#BannerHeader{
+		font-size: 5em;
+}
 
 .photoframe {
   -webkit-box-shadow: 10px 10px 9px -4px rgba(0, 0, 0, 0.2);
